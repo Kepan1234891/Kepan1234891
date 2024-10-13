@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kepan1234891
-- 👀 I’m interested in C#,PHP,HTML and C++
-- 🌱 I’m currently learning C#,PHP,HTML and C++
+- 👀 I’m interested in Javascript,PHP,HTML,Java and C++
+- 🌱 I’m currently learning Javascript,HTML,Java and C++
 - 📫 How to reach me kepan.voittonen00@gmail.com
